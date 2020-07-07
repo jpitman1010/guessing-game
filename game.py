@@ -1,4 +1,2 @@
-print("hi")
-"""A number-guessing game."""
-
-# Put your code here
+greeting= "Hello, welcome to the Guessing Game!!!"
+print(greeting)
